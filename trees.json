@@ -1,0 +1,14 @@
+{ "columns":11,
+ "image":"res\/tons_of_tileset_1_10___light_jungle_trees_by_phyromatical_d817v10.png",
+ "imageheight":720,
+ "imagewidth":352,
+ "margin":0,
+ "name":"trees",
+ "spacing":0,
+ "tilecount":242,
+ "tiledversion":"1.6.0",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.6"
+}

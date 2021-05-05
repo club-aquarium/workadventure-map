@@ -1,0 +1,14 @@
+{ "columns":30,
+ "image":"res\/public_indoor_tileset_from_public_tiles_by_chaoticcherrycake_d801ty3.png",
+ "imageheight":960,
+ "imagewidth":960,
+ "margin":0,
+ "name":"indoor",
+ "spacing":0,
+ "tilecount":900,
+ "tiledversion":"1.6.0",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.6"
+}

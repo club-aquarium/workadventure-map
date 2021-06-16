@@ -349,7 +349,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"\/_\/global\/cybarmaps.club-haengemathe.de\/outdoors.json"
+                 "value":"bus.json#aquarium"
                 }],
          "type":"tilelayer",
          "visible":true,

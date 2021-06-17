@@ -385,7 +385,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"bus.json#aquarium"
+                 "value":"..\/bus\/bus.json#aquarium"
                 }],
          "type":"tilelayer",
          "visible":true,
